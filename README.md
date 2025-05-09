@@ -1,2 +1,2 @@
 # percy-test
-test
+test test
